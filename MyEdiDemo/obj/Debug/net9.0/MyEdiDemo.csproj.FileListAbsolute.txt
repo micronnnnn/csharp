@@ -1,0 +1,14 @@
+D:\cSharpTest\csharp\MyEdiDemo\bin\Debug\net9.0\MyEdiDemo.exe
+D:\cSharpTest\csharp\MyEdiDemo\bin\Debug\net9.0\MyEdiDemo.deps.json
+D:\cSharpTest\csharp\MyEdiDemo\bin\Debug\net9.0\MyEdiDemo.runtimeconfig.json
+D:\cSharpTest\csharp\MyEdiDemo\bin\Debug\net9.0\MyEdiDemo.dll
+D:\cSharpTest\csharp\MyEdiDemo\bin\Debug\net9.0\MyEdiDemo.pdb
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.AssemblyInfoInputs.cache
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.AssemblyInfo.cs
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.csproj.CoreCompileInputs.cache
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.dll
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\refint\MyEdiDemo.dll
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.pdb
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\MyEdiDemo.genruntimeconfig.cache
+D:\cSharpTest\csharp\MyEdiDemo\obj\Debug\net9.0\ref\MyEdiDemo.dll

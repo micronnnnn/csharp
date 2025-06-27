@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEdiDemo", "MyEdiDemo\MyEdiDemo.csproj", "{9142FD20-517E-E86D-8230-76C783BCFBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9142FD20-517E-E86D-8230-76C783BCFBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9142FD20-517E-E86D-8230-76C783BCFBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9142FD20-517E-E86D-8230-76C783BCFBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9142FD20-517E-E86D-8230-76C783BCFBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38D8C59-C85A-4469-BD2B-B26D963AC3B9}
+	EndGlobalSection
+EndGlobal
