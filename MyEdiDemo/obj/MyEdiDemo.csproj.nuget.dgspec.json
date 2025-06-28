@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cSharpTest\\csharp\\MyEdiDemo\\MyEdiDemo.csproj": {}
+    "/Users/wayne/Desktop/vscode/workspace/csharpTest/csharp/MyEdiDemo/MyEdiDemo.csproj": {}
   },
   "projects": {
-    "D:\\cSharpTest\\csharp\\MyEdiDemo\\MyEdiDemo.csproj": {
+    "/Users/wayne/Desktop/vscode/workspace/csharpTest/csharp/MyEdiDemo/MyEdiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cSharpTest\\csharp\\MyEdiDemo\\MyEdiDemo.csproj",
+        "projectUniqueName": "/Users/wayne/Desktop/vscode/workspace/csharpTest/csharp/MyEdiDemo/MyEdiDemo.csproj",
         "projectName": "MyEdiDemo",
-        "projectPath": "D:\\cSharpTest\\csharp\\MyEdiDemo\\MyEdiDemo.csproj",
-        "packagesPath": "C:\\Users\\leewayne\\.nuget\\packages\\",
-        "outputPath": "D:\\cSharpTest\\csharp\\MyEdiDemo\\obj\\",
+        "projectPath": "/Users/wayne/Desktop/vscode/workspace/csharpTest/csharp/MyEdiDemo/MyEdiDemo.csproj",
+        "packagesPath": "/Users/wayne/.nuget/packages/",
+        "outputPath": "/Users/wayne/Desktop/vscode/workspace/csharpTest/csharp/MyEdiDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leewayne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/wayne/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
